@@ -1,0 +1,7 @@
+﻿SP01 - iphone 13: 12,000,000 VND
+SP02 - iphone 15: 20,000,000 VND
+SP03 - iphone 18: 41,500,000 VND
+
+Nội dung report.txt:
+Số sản phẩm: 3
+Tổng giá trị tồn kho: 73,500,000 VND
