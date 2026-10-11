@@ -1,0 +1,3 @@
+Day la tap tin thu nghiem truyen file an toan qua mang Java Socket.
+Noi dung duoc bao ve va xac thuc toan ven bang ma bam SHA-256.
+Thoi gian tao: 1791710671928
